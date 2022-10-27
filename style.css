@@ -1,0 +1,60 @@
+body{
+    color: #234CAD;
+}
+.box{
+    height: 500px;
+    width: 100%;
+    background: #F2F6FF;
+    border-radius: 60px;
+}
+.first-content h1{
+    width: 50px;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.first-content p{
+    width: 350px;
+    padding-top: 20px;
+    padding-left: 100px;
+    font-size: 15px;
+}
+.first-content button{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.paper-icon{
+    width: 50px;
+    padding: 15px;
+}
+.paper-icon img{
+    width: 20px;
+}
+.upload-image{
+    height: 10px;
+}
+.upload-icon{
+    width: 300px;
+    padding: 15px;
+}
+.upload-text p{
+    font-size: 10px;
+}
+.upload-text h6{
+    font-size: 15px;
+}
+.team-image{
+    height: 10px;
+}
+.team-meeting{
+    width: 300px;
+    padding: 15px;
+}
+.team-text p{
+    font-size: 10px;
+}
+.team-text h6{
+    font-size: 15px;
+}
+.team-icon{
+    border-color: white;
+}
